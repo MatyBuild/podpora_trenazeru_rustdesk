@@ -1,5 +1,5 @@
 [package]
-name = "Podpora trenažeru"
+name = "Podpora trenažéru"
 version = "1.4.0"
 authors = ["rustdesk <info@rustdesk.com>"]
 edition = "2021"
